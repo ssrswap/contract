@@ -142,7 +142,7 @@ contract TRONRanch is Ownable {
         uint256 multiplier = getMultiplier(pool.lastRewardBlock, block.number);
         
         uint256 sushiReward = multiplier.mul(ssrPerBlock).mul(pool.allocPoint).div(totalAllocPoint);
-        ssr.mint(devaddr, sushiReward.div(1));
+        ssr.mint(devaddr, sushiReward.div(100));
         ssr.mint(address(this), sushiReward);
         pool.accSSRPerShare = pool.accSSRPerShare.add(sushiReward.mul(1e12).div(lpSupply));
         pool.lastRewardBlock = block.number;
