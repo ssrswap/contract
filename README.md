@@ -18,17 +18,17 @@ SSR并非本着分配给创始团队的一部分资源，而是本着YFI的精�
 阳光牧场 将于9月5日正式开始创世挖矿。
 
 #### 支持矿池
-TRON
-SSR/TRX LP
-矿池地址：TLr3bn7nUGoNNhmmY8QhCqfBTXcVap151Z
-USDT
-代币地址：TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
-USDJ
-代币地址：TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT
-TAI
-代币地址：TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P
-JST
-代币地址：TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9
+TRON  
+SSR/TRX LP  
+矿池地址：TLr3bn7nUGoNNhmmY8QhCqfBTXcVap151Z  
+USDT  
+代币地址：TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t  
+USDJ  
+代币地址：TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT  
+TAI  
+代币地址：TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P  
+JST  
+代币地址：TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9  
 
 
 #### 治理 
