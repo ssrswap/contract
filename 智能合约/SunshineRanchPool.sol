@@ -56,10 +56,6 @@ contract TRONRanch is Ownable {
         startBlock = _startBlock;
     }
 
-    function setStartBlock(uint256 _startBlock,uint256 _bonusEndBlock) public onlyOwner{
-        startBlock = _startBlock;
-        bonusEndBlock = _bonusEndBlock;
-    }
 
     function poolLength() external view returns (uint256) {
         return poolInfo.length;
@@ -140,7 +136,7 @@ contract TRONRanch is Ownable {
             return;
         }
         uint256 multiplier = getMultiplier(pool.lastRewardBlock, block.number);
-        
+        //获取矿池寿司奖励
         uint256 sushiReward = multiplier.mul(ssrPerBlock).mul(pool.allocPoint).div(totalAllocPoint);
         ssr.mint(devaddr, sushiReward.div(100));
         ssr.mint(address(this), sushiReward);
@@ -232,4 +228,3 @@ contract TRONRanch is Ownable {
         }
     }
 }
-
