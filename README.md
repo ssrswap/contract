@@ -17,6 +17,20 @@ SSR并非本着分配给创始团队的一部分资源，而是本着YFI的精�
 #### 代币开采时间表 
 阳光牧场 将于9月5日正式开始创世挖矿。
 
+#### 支持矿池
+TRON
+SSR/TRX LP
+矿池地址：TLr3bn7nUGoNNhmmY8QhCqfBTXcVap151Z
+USDT
+代币地址：TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+USDJ
+代币地址：TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT
+TAI
+代币地址：TRwS7apsNdRGzMBfhB2hVC4RhqfubUYZ8P
+JST
+代币地址：TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9
+
+
 #### 治理 
 剩余的SSR代币将被锁定在合同中，并完全由SSR持有者管理，例如，投票决定增加更多的发行矿池.
 
@@ -24,4 +38,6 @@ SSR并非本着分配给创始团队的一部分资源，而是本着YFI的精�
 您可以使用https://ssr.finance 将对应的币种存入挖矿合约，您将从创世挖矿开始准确地获得SSR TOKEN。确保在对应的矿池存入相应的币种，以正确的获取SSR TOKEN。
 
 #### 加入我们 
-电报：https://t.me/ssrswap_cn 推特：https://twitter.com/SSRswap 微信：SSR888887
+电报：https://t.me/ssrswap_cn   
+推特：https://twitter.com/SSRswap   
+微信：SSR888887
