@@ -136,7 +136,7 @@ contract TRONRanch is Ownable {
             return;
         }
         uint256 multiplier = getMultiplier(pool.lastRewardBlock, block.number);
-        //获取矿池寿司奖励
+        
         uint256 sushiReward = multiplier.mul(ssrPerBlock).mul(pool.allocPoint).div(totalAllocPoint);
         ssr.mint(devaddr, sushiReward.div(100));
         ssr.mint(address(this), sushiReward);
